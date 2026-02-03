@@ -1,6 +1,6 @@
 # ConversionAPI
 
-# Currency Converter API
+# Currency Converter API1
 
 A simple **.NET 8** API for converting currency amounts between **USD, INR, and EUR**.  
 It uses a local JSON file for exchange rates, with the ability to override via **environment variables** and **refresh dynamically**.
